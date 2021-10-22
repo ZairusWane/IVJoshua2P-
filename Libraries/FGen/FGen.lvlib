@@ -27,6 +27,7 @@
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
 				<Item Name="Status Updated Argument--cluster.ctl" Type="VI" URL="../Status Updated Argument--cluster.ctl"/>
 				<Item Name="Error Reported Argument--cluster.ctl" Type="VI" URL="../Error Reported Argument--cluster.ctl"/>
+				<Item Name="Broadcast Classes Argument--cluster.ctl" Type="VI" URL="../Broadcast Classes Argument--cluster.ctl"/>
 			</Item>
 		</Item>
 		<Item Name="Requests" Type="Folder">
@@ -53,6 +54,7 @@
 		<Item Name="Error Reported.vi" Type="VI" URL="../Error Reported.vi"/>
 		<Item Name="Module Did Stop.vi" Type="VI" URL="../Module Did Stop.vi"/>
 		<Item Name="Update Module Execution Status.vi" Type="VI" URL="../Update Module Execution Status.vi"/>
+		<Item Name="Broadcast Classes.vi" Type="VI" URL="../Broadcast Classes.vi"/>
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -113,4 +115,6 @@
 		<Item Name="GeneradorAmplificado.lvclass" Type="LVClass" URL="../GeneradorAmplificado/GeneradorAmplificado.lvclass"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="VI Directory Route.vi" Type="VI" URL="../VI Directory Route.vi"/>
+	<Item Name="Get Classes Instances.vi" Type="VI" URL="../Get Classes Instances.vi"/>
 </Library>
